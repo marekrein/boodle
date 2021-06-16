@@ -13,7 +13,7 @@
                 [re-frame "1.2.0"]
                 [reagent "1.1.0"]
                 [reagent-utils "0.3.4"]
-                [tongue "0.2.10"]]
+                [tongue "0.3.0"]]
 
  :nrepl {:port 8777}
 
